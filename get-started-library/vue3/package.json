@@ -10,7 +10,7 @@
     "type-check": "vue-tsc --noEmit -p tsconfig.app.json --composite false"
   },
   "dependencies": {
-    "survey-vue3-ui": "latest",
+    "survey-vue3-ui": "1.9.137",
     "vue": "^3.3.4"
   },
   "devDependencies": {
